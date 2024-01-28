@@ -52,7 +52,7 @@ Epoch: 0003 Step count:  30 loss = 6.702834
 ### Clean Dataset
 Use clean dataset from here. Need to rename sample.mp4 to sample.zip
 to use it.
-https://www.kaggle.com/datasets/piygro/sample-transformer-dataset/
+[https://www.kaggle.com/datasets/piygro/sample-transformer-dataset/](https://www.kaggle.com/datasets/medihemaap/transformer-clean-dataset-sample/data)
 
 ### data-feed-server.ipynb
 This Jupyter notebook is responsible for generating data-feed for our model training.
